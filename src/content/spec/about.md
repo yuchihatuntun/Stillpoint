@@ -1,9 +1,33 @@
 # About
-This is the demo site for [Stillpoint](https://github.com/yuchihatuntun/Stillpoint).
+
+ふ、ふんにゃ！(>///<) お、お前！
+
+よくもあたしの**『絶対領域』（ぜったいりょういき）を見つけたにゃ！ 
+
+い、言っとくけど、ここの内容はべ、別にお前のために書いたものじゃないんだからね！** …ただの気まぐれな記録（きろく）だにゃ！ …バカ！ 
+
+……も、もう…しょうがないにゃあ。お前がそんなに見たいって言うなら、別に…見てもいいけど… ま、また来てもいいにゃ…
+
+# Open-source repository​
+
+お、お前！まさかリンクまで欲しがるなんて... も、もう、しょうがないにゃあ...
 
 ::github{repo="yuchihatuntun/Stillpoint"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+...（こそこそ...）
+
+あ、あのね... **「Star」（星）** ってやつ...
+
+**べ、別に押してほしいなんて頼んでないんだからね！**
+
+で、でも... もしお前の指が勝手に滑って押しちゃっても...
+
+あ、あたしは...別に... 嬉しくなんかないんだからな！
+
+...
+
+...
+
+...
+
+か、勘違いするなよ！バカ！
