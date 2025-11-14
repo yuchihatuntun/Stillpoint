@@ -14,6 +14,6 @@ After two grueling weeks of absolute zetsubou, getting crushed by midterms, endl
 
 Guess what, Senpai? The new Demon Slayer movie—the one with the Infinity Castle Battle—just dropped in Zhuhai! I’m totally going to go see the truth today! 
 
-And at the same time, I’m heading to the mall for a magnificent feast; this one lost about two jin of weight fighting all those tiny enemies, so I deserve an epic gochisou (大餐/feast)! I must recharge my HP!
+And at the same time, I’m heading to the mall for a magnificent feast; this one lost about two jin of weight fighting all those tiny enemies, so I deserve an epic gochisou (feast)! I must recharge my HP!
 
 
