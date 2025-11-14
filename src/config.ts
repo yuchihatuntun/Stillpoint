@@ -54,6 +54,11 @@ export const navBarConfig: NavBarConfig = {
 			url: "https://www.skaldheim.cn/", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
+		{
+			name: "NoteCube",
+			url: "https://note-cube.vercel.app/", // Internal links should not include the base path, as it is automatically added
+			external: true, // Show an external link icon and will open in a new tab
+		},
 	],
 };
 
