@@ -10,7 +10,7 @@ draft: false
 
 After two grueling weeks of absolute zetsubou, getting crushed by midterms, endless lab reports, brutal research, and soul-sucking group meetings, I have finally achieved the sacred state of yasumi (休み/rest)!
 
-<iframe width="100%" height="468" src="https://www.youtube.com/watch?v=9kb7vK11_Rw&t=1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9kb7vK11_Rw" title="Demon Slayer: Kimetsu no Yaiba Infinity Castle  |  OFFICIAL TRAILER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Guess what, Senpai? The new Demon Slayer movie—the one with the Infinity Castle Battle—just dropped in Zhuhai! I’m totally going to go see the truth today! 
 
