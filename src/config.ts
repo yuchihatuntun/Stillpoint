@@ -50,8 +50,8 @@ export const navBarConfig: NavBarConfig = {
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		{
-			name: "Skaldheim",
-			url: "https://www.skaldheim.cn/", // Internal links should not include the base path, as it is automatically added
+			name: "Inkwell",
+			url: "https://inkwell-delta.vercel.app/", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		{
