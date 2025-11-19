@@ -45,8 +45,8 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
-			name: "GitHub",
-			url: "https://github.com/yuchihatuntun/Stillpoint", // Internal links should not include the base path, as it is automatically added
+			name: "Tangjia-Bites",
+			url: "https://tangjia-bites.vercel.app/", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		{
@@ -57,6 +57,11 @@ export const navBarConfig: NavBarConfig = {
 		{
 			name: "NoteCube",
 			url: "https://note-cube.vercel.app/", // Internal links should not include the base path, as it is automatically added
+			external: true, // Show an external link icon and will open in a new tab
+		},
+		{
+			name: "Obsidian",
+			url: "https://obs-link.vercel.app/", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
