@@ -4,7 +4,7 @@ published: 2025-11-15
 description: "The Journey of Self-Improvement"
 image: "./cover.png"
 tags: ["Blogging","Technology Stacks"]
-category: Milestones
+category: Milestones​
 draft: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Inkwell
+title: For a bottle of ink, create a silent sanctuary
 published: 2025-11-16
 description: "While the world outside grows louder, I am retreating into the quiet company of books, uncorking a bottle named Inkwell."
 image: "./cover.png"

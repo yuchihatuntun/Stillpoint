@@ -4,7 +4,7 @@ published: 2025-11-19
 description: "a student-built tribute to the culinary landscape of sysu zhuhai, built on the legacy of campus food explorers. the map is just beginning to be drawn."
 image: "./cover.png"
 tags: ["Blogging","Gourmet"]
-category: Milestones
+category: Milestones​
 draft: false
 ---
 

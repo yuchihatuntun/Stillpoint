@@ -4,7 +4,7 @@ published: 2025-11-18
 description: "The Driving Force for GPA"
 image: "./cover.png"
 tags: ["Blogging","Major"]
-category: Milestones
+category: Milestones​
 draft: false
 ---
 
