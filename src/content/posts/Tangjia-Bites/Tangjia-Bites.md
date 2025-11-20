@@ -1,5 +1,5 @@
 ---
-title: Launching Tangjia Bites: A Flavorful Journey Begins at SYSU Zhuhai
+title: Launching Tangjia Bites：A Flavorful Journey Begins at SYSU Zhuhai
 published: 2025-11-16
 description: "a student-built tribute to the culinary landscape of sysu zhuhai, built on the legacy of campus food explorers. the map is just beginning to be drawn."
 image: "./cover.png"
