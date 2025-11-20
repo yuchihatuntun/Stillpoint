@@ -1,6 +1,6 @@
 ---
 title: Launching Tangjia Bites：A Flavorful Journey Begins at SYSU Zhuhai
-published: 2025-11-16
+published: 2025-11-19
 description: "a student-built tribute to the culinary landscape of sysu zhuhai, built on the legacy of campus food explorers. the map is just beginning to be drawn."
 image: "./cover.png"
 tags: ["Blogging","Gourmet"]
@@ -12,4 +12,4 @@ A few days ago, I came across a post on Xiaohongshu shared by a graduate student
 
 ::github{repo="yuchihatuntun/Tangjia-Bites"}
 
-
+You can also find its entry via the external links at the top of the blog homepage.
